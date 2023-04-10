@@ -1,0 +1,65 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 113rem;
+}.contact-rak {
+  width: 100%;
+  height: 81.7rem;
+  position: relative;
+}
+.contact-rak .seperator-QsA {
+  width: 112rem;
+  height: 0.2rem;
+  position: absolute;
+  left: 1rem;
+  top: 59.6rem;
+  background-color: #181717;
+}
+.contact-rak .seperator-jeY {
+  width: 112rem;
+  height: 0.2rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: #181717;
+}
+.contact-rak .febianafsgmailcom-6EC {
+  width: 30rem;
+  height: 3.8rem;
+  position: absolute;
+  left: 75.9rem;
+  top: 74.6rem;
+  font-size: 3.2rem;
+  font-weight: 400;
+  line-height: 1.1699999571;
+  letter-spacing: -0.096rem;
+  color: #181717;
+  font-family: DM Sans, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.contact-rak .view-resume-mr8 {
+  width: 10.9rem;
+  height: 2.2rem;
+  position: absolute;
+  left: 75.9rem;
+  top: 79.5rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.2150000466;
+  letter-spacing: -0.054rem;
+  color: #181717;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}

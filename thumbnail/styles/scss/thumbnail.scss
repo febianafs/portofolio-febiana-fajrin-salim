@@ -1,0 +1,43 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 84.2rem;
+}.thumbnail-H6x {
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: flex-start;
+  background-color: #131111;
+  box-sizing: border-box;
+  padding-top: 2.9rem;
+
+  .portfolio-work-page-DmJ {
+    flex-shrink: 0;
+    margin-right: 2.1rem;
+    width: 49.7rem;
+    height: 92.8rem;
+    object-fit: cover;
+    vertical-align: top;
+  }
+  .portfolio-about-page-kWL {
+    margin-top: 8.5rem;
+    width: 40rem;
+    height: 51.2rem;
+    object-fit: cover;
+    vertical-align: top;
+    flex-shrink: 0;
+  }
+}
